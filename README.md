@@ -1,2 +1,3 @@
 # glbt-fantasy
-My old website
+Code samples from my now-defunct website glbtfantasy.com.
+The site hosted hundreds of reader reviews of fantasy and science-fiction books for more than ten years. Originally written in plain HTML in 2002, the site outgrew its single-page format and was completely overhauled in 2004, from scratch. The HTML was replaced with a skeletal framework embedded with PHP scripts to pull data from a mysql database and format it using simple CSS. New books and reviews were added by way of a custom administrator page. The design was minimal, relying solely on a menu-driven interface, and had no interoperability with social networks. It was taken down in 2015.
