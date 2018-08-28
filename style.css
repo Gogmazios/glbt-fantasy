@@ -1,0 +1,272 @@
+<!--
+
+/* CSS created by Finder. */
+
+/** {border: solid 1px;}*/
+
+/* Color Section */
+BODY {background: #ccc; color: #226;}
+BODY H2 a:hover {background: #fff;}
+#bigdiv, #main, #right, #footer {background: #fff;}
+#focus, #rss {background-color: #eef;}
+#bnav {background-color: #eef;}
+#nav ul li a {background: #aae; color: #fff; text-shadow: 0px 1px 1px #000;}
+#nav ul li a:hover {background: #fff; color: #669; text-shadow: none;}
+strong, .fancy, .byline, .series {color: #559;}
+a:link {color: #00F;}
+a:visited {color: #707;}
+a:hover {background-color: #ddd; text-decoration: none;}
+a.offsite:link {color: #960; text-decoration: none; border-bottom: 1px dotted #960;}
+a.offsite:visited {color: #960; text-decoration: none; border-bottom: 1px dotted #960;}
+a.offsite:hover {border: none;}
+a.nohover:hover {background-color: #fff;}
+#bnav a:hover {background-color: #eef; color: #333; text-decoration: underline;}
+H1, H2, H3, H4, H1 a:hover {color: #669;}
+H1, H1 a:hover {background: #ddf;}
+.hrec {color: #29f; font-size: 16px;}
+.rec {color: #096; font-size: 16px;}
+.nrec {color: #d22; font-size: 16px;}
+/* End Color Section*/
+
+
+BODY {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 15px;
+    line-height: 160%;
+}
+
+H1, H2, H3, H4, .fancy, .byline {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+H1 {
+	margin: 0px;
+	padding: 20px 10px;
+	font-size: 36px;
+	border-bottom: solid 1px #669;
+	text-shadow: 0px 1px 1px #fff;
+}
+
+H2 {
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+
+H3 {
+	font-size: 16px;
+	margin-bottom: 0px;
+}
+
+H4, .cinch {
+	margin-bottom: 0px;
+}
+
+P {margin-top: 0px;}
+
+IMG {border: none;}
+
+UL {list-style-type: circle;}
+
+.byline {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.fancy {
+	font-size: 16px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.small {
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* Creative Commons copyright text */
+.cc {
+	line-height: 120%;
+	padding-top: 10px;
+}
+
+/* Creative Commons copyright image */
+.ccimg {
+	float: left;
+	width: 88px;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+
+.plist LI {padding-bottom: 10px;}
+
+/* Skip to main content for non-graphical browsers */
+.skiplink {display: none;}
+
+#bigdiv {
+	border-left: solid 1px #777;
+	border-right: solid 1px #777;
+}
+
+#focus, #rss {
+	border: solid 1px #ddf;
+}
+
+#main, #footer {padding-left: 10px;}
+
+#main {
+	margin-top: 20px;
+    padding-right: 10px;
+    border-right: dashed 1px #ddf;
+}
+
+#right, #footer, #bnav, .cc, .copy, .qnav, .sub {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+#right {
+	line-height: 140%;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 8px;
+}
+
+#right p {
+	padding-bottom: 10px;
+}
+
+#right em {
+	font-size: 14px;
+}
+
+#right H2 {
+	font-size: 16px;
+	letter-spacing: 0px;
+	border-bottom: solid 2px #eef;
+	border-right: solid 2px #eef;
+}
+
+#right ul.tight {margin-top: 4px;}
+
+#right ul {
+	list-style: none;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+#right li {
+	padding-bottom: 15px;
+}
+
+.tight {margin-top: 0px;}
+
+#bnav {
+	border-bottom: solid 1px #669;
+	clear: both;
+	padding-left: 10px;
+	margin-top: 40px;
+}
+
+#nav {
+	font-size: 14px;
+	font-weight: bold;
+    height: 30px;
+}
+
+#nav ul {
+	padding: 0px;
+	margin: 0px;
+}
+
+#nav ul li {
+	display: block;
+	float: left;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+	height: 35px;
+	border-right: solid 1px #ddf;
+	border-bottom: solid 1px #669;
+}
+
+#nav ul li a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-decoration: none;
+	margin: 0px;
+	display: block;
+	height: 25px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#rss {
+	font-size: 14px;
+	padding-top: 8px;
+	padding-bottom: 5px;
+	padding-left: 50px;
+}
+
+/* Menu Buttons */
+#H-item {width: 100px;}
+#B-item {width: 130px;}
+#N-item {width: 100px;}
+#E-item {width: 111px;}
+/* #I-item {width: 112px;} */
+#R-item {width: 130px;}
+#G-item {width: 120px;}
+#L-item {width: 100px;}
+#nav ul #A-item {width: 100px; border-right: 0px;}
+
+/* Dragon Territory */
+#lucie {
+	position: absolute;
+	right: 77px;
+	bottom: 64px;
+}
+
+/* Eight Tables */
+/* Thanks to http://www.timrivera.com/tests/csstables.html */
+table {
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+}
+	
+table.reviews {
+	width: 400px;
+	margin-bottom: 10px;
+}
+
+table.reviews td:first-child {
+	width: 50px;
+}
+
+table.reviews td+td {
+	text-align: center;
+}
+
+table.words {
+	width: 400px;
+	margin-bottom: 10px;
+}
+
+tr.yellow td {
+	border-top: 1px solid #559;
+	border-bottom: 1px solid #559;
+	background: #EEF;
+}
+
+tr.overall td {border-bottom: none;}
+
+td {
+	border-bottom: 1px solid #CCC;
+	padding: 0 0.5em;
+}
+
+td+td {
+	border-left: 1px solid #CCC;
+}
+
+
+-->

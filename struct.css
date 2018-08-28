@@ -1,0 +1,56 @@
+<!--
+
+/* CSS created by Finder. */
+
+BODY {
+	max-width: 900px;
+	margin: auto;
+}
+
+/* MAIN SECTION */
+#main {
+	clear: left;
+	min-width: 400px;
+	max-width: 700px;
+	margin-right: 212px;
+}
+  
+/* RIGHT SECTION */
+#right {
+	float: right;
+	margin-top: 1px;
+	margin-bottom: 60px;
+	padding-top: 10px;
+	width: 185px;
+}
+
+/* FOCUS REVIEW */
+#focus {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* LATEST NEWS */
+#news {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* AUTHOR INDEX COLUMNS */
+.auth {
+	float: left;
+	width: 165px;
+}
+
+/* SPACER DIV */
+#spacer {clear: both;}
+
+/* FOOTER */
+#footer {
+	clear: both;
+	margin-top: 5px;
+	position: relative;
+}
+
+ 
+-->
